@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "n": "vXr",
+  "r": [
+    { "s": "/(\\w+)", "d": "/api/index" }
+  ],
+  "t": false
+}
