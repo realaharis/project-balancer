@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "n": "vXr",
+  "na": "vXr",
   "r": [
     { "s": "/(\\w+)", "d": "/api/index" }
   ],
