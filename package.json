@@ -1,0 +1,35 @@
+{
+  "name": "vXr",
+  "version": "1.0.0",
+  "description": "Edge HTTP relay for V2Ray/Xray",
+  "private": true,
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": [
+    "relay",
+    "edge",
+    "xray",
+    "v2ray",
+    "http"
+  ],
+  "author": "Anonymous",
+  "homepage": "https://example.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anonymous/vercel-xhttp-relay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/anonymous/vercel-xhttp-relay/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}
